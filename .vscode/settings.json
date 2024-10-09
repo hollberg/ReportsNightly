@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:/PyVenvs/ReportsNightly/.venv/Scripts/python.exe",
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.terminal.executeInFileDir": true
+  }
+  

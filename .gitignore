@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm IDE files
+.idea/
+
+# Virtual environments
+.venv*/
+venv*/
+
+# Misc
+scratches/
+
+# ... existing entries (if any) ...
